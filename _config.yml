@@ -4,16 +4,13 @@ SEOTitle: 帛书的博客 | Boshu Blog
 header-img: img/head.jpeg
 email: jxgxldl@gmail.com
 description: "When you achieve your dreams, it's not so much what you get, as who you have became in achieving them."
-keyword: "Java, 中间件, Kafka, Spring, Spring boot, Kotlin, Python, Mysql"
 url: "http://jxgxldl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jxgxldl/jxgxldl.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-about-description: "热爱技术，热爱简单的生活"
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -35,12 +32,6 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
-
-
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 
 # Featured Tags
