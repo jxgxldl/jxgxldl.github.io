@@ -1,8 +1,8 @@
 # Site settings
 title: 帛书的博客
 SEOTitle: 帛书的博客 | Boshu Blog
-header-img: img/head.jpeg
-email: jxgxldl@gmail.com
+#header-img: img/head.jpeg
+email: jxgxldl@163.com
 description: "When you achieve your dreams, it's not so much what you get, as who you have became in achieving them."
 url: "http://jxgxldl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
